@@ -1,3 +1,6 @@
+https://rr999888tw.medium.com/ubuntu-20-04-workspace-grid-tutorial-785db6f614e1
+
+
 在安装 workspace matrix 前要保证安装 Gnome shell 兼容的版本，查看 Gnome shell 的版本指令 gnome-shell --version
 从gnome shell拓展网站安装
 https://extensions.gnome.org/#sort=relevance
@@ -24,3 +27,9 @@ wayland → 你在用 Wayland
 x11 → 你在用 X.org）
 If you are running the newer Wayland system, log out and log back in.
 If you are running the X.org/X window system, press Alt+F2, type r in the "Run a command" prompt and press Enter.
+
+
+使用：
+使用快捷键 Shift + Ctrl + Alt + 方向键 移动指定应用到相应的网格，使用快捷键 Ctrl + Alt + 方向键切换窗口
+
+
